@@ -6791,11 +6791,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\ApiUsuario\\ApiUsuario.csproj",
+      "projectUniqueName": "C:\\C\\ApiUsuario\\ApiUsuario\\ApiUsuario.csproj",
       "projectName": "ApiUsuario",
-      "projectPath": "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\ApiUsuario\\ApiUsuario.csproj",
+      "projectPath": "C:\\C\\ApiUsuario\\ApiUsuario\\ApiUsuario.csproj",
       "packagesPath": "C:\\Users\\caioo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\ApiUsuario\\obj\\",
+      "outputPath": "C:\\C\\ApiUsuario\\ApiUsuario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\caioo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6812,20 +6812,20 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\AcessoDados\\AcessoDados.csproj": {
-              "projectPath": "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\AcessoDados\\AcessoDados.csproj"
+            "C:\\C\\ApiUsuario\\AcessoDados\\AcessoDados.csproj": {
+              "projectPath": "C:\\C\\ApiUsuario\\AcessoDados\\AcessoDados.csproj"
             },
-            "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\DTO\\DTO.csproj": {
-              "projectPath": "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\DTO\\DTO.csproj"
+            "C:\\C\\ApiUsuario\\DTO\\DTO.csproj": {
+              "projectPath": "C:\\C\\ApiUsuario\\DTO\\DTO.csproj"
             },
-            "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\Entidades\\Entidades.csproj"
+            "C:\\C\\ApiUsuario\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\C\\ApiUsuario\\Entidades\\Entidades.csproj"
             },
-            "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj": {
-              "projectPath": "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj"
+            "C:\\C\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj": {
+              "projectPath": "C:\\C\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj"
             },
-            "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\Negocio\\Negocio.csproj": {
-              "projectPath": "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\Negocio\\Negocio.csproj"
+            "C:\\C\\ApiUsuario\\Negocio\\Negocio.csproj": {
+              "projectPath": "C:\\C\\ApiUsuario\\Negocio\\Negocio.csproj"
             }
           }
         }
@@ -6895,7 +6895,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

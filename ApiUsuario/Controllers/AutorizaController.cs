@@ -60,7 +60,7 @@ namespace ApiUsuario.Controllers
 
 
         [HttpPost("login")]
-        public async Task<ActionResult> Login([FromBody] UsuarioDTO userInfo)
+        public async Task<ActionResult> Login(UsuarioDTO userInfo)
         {
             if (!ModelState.IsValid)
             {

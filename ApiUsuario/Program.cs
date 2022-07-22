@@ -82,6 +82,11 @@ builder.Services.AddAuthentication(
         }
         );
 
+
+builder.Services.AddCors();
+
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -93,8 +98,12 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseCors(opt => opt.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());
+
 app.UseAuthentication();
 app.UseAuthorization();
+
+
 
 app.MapControllers();
 

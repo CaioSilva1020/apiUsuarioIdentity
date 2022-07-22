@@ -1,4 +1,5 @@
 ﻿using AcessoDados;
+using DTO;
 using Entidades;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -84,6 +85,21 @@ namespace ApiUsuario.Controllers
             produto = produtoNegocio.Remover(produto);
 
             return Ok(produto);
+        }
+
+        //// GET: api/<ProdutosController>
+        [HttpGet]
+        public void Teste()
+        {
+            ClasseExemplo exemplo = new ClasseExemplo();
+            exemplo.Dados.Add(15d);
+            exemplo.Dados.Add(18);
+            exemplo.Dados.Add(25d);
+            exemplo.Dados.Add("tesoura");
+
+            List<string> itens1 = exemplo.Retornar<string>();
+            List<double> itens2 = exemplo.Retornar<double>();
+            List<int> itens3 = exemplo.Retornar<int>();
         }
     }
 }

@@ -1,5 +1,6 @@
 ﻿using AcessoDados;
 using Entidades;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using NegocioInterface;
@@ -8,6 +9,7 @@ using NegocioInterface;
 
 namespace ApiUsuario.Controllers
 {
+    [Authorize(AuthenticationSchemes = "Bearer")]
     [Route("api/[controller]/[action]")]
     [ApiController]
     public class UsuariosController : ControllerBase

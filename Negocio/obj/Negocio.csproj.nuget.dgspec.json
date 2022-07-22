@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\Negocio\\Negocio.csproj": {}
+    "C:\\C\\ApiUsuario\\Negocio\\Negocio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\AcessoDados\\AcessoDados.csproj": {
+    "C:\\C\\ApiUsuario\\AcessoDados\\AcessoDados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\AcessoDados\\AcessoDados.csproj",
+        "projectUniqueName": "C:\\C\\ApiUsuario\\AcessoDados\\AcessoDados.csproj",
         "projectName": "AcessoDados",
-        "projectPath": "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\AcessoDados\\AcessoDados.csproj",
+        "projectPath": "C:\\C\\ApiUsuario\\AcessoDados\\AcessoDados.csproj",
         "packagesPath": "C:\\Users\\caioo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\AcessoDados\\obj\\",
+        "outputPath": "C:\\C\\ApiUsuario\\AcessoDados\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caioo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\Entidades\\Entidades.csproj"
+              "C:\\C\\ApiUsuario\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\C\\ApiUsuario\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -78,18 +78,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\Entidades\\Entidades.csproj": {
+    "C:\\C\\ApiUsuario\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\C\\ApiUsuario\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\C\\ApiUsuario\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\caioo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\Entidades\\obj\\",
+        "outputPath": "C:\\C\\ApiUsuario\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caioo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -132,18 +132,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj": {
+    "C:\\C\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj",
+        "projectUniqueName": "C:\\C\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj",
         "projectName": "NegocioInterface",
-        "projectPath": "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj",
+        "projectPath": "C:\\C\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj",
         "packagesPath": "C:\\Users\\caioo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\NegocioInterface\\obj\\",
+        "outputPath": "C:\\C\\ApiUsuario\\NegocioInterface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caioo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -160,8 +160,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\Entidades\\Entidades.csproj"
+              "C:\\C\\ApiUsuario\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\C\\ApiUsuario\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -190,18 +190,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\Negocio\\Negocio.csproj": {
+    "C:\\C\\ApiUsuario\\Negocio\\Negocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\Negocio\\Negocio.csproj",
+        "projectUniqueName": "C:\\C\\ApiUsuario\\Negocio\\Negocio.csproj",
         "projectName": "Negocio",
-        "projectPath": "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\Negocio\\Negocio.csproj",
+        "projectPath": "C:\\C\\ApiUsuario\\Negocio\\Negocio.csproj",
         "packagesPath": "C:\\Users\\caioo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\Negocio\\obj\\",
+        "outputPath": "C:\\C\\ApiUsuario\\Negocio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caioo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -218,11 +218,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\AcessoDados\\AcessoDados.csproj": {
-                "projectPath": "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\AcessoDados\\AcessoDados.csproj"
+              "C:\\C\\ApiUsuario\\AcessoDados\\AcessoDados.csproj": {
+                "projectPath": "C:\\C\\ApiUsuario\\AcessoDados\\AcessoDados.csproj"
               },
-              "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj": {
-                "projectPath": "C:\\Users\\caioo\\OneDrive\\Área de Trabalho\\C\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj"
+              "C:\\C\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj": {
+                "projectPath": "C:\\C\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj"
               }
             }
           }
@@ -251,7 +251,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
