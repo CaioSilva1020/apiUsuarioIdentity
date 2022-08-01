@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K+NqjyRRbEigVJSGdaaExiPm5N4fgD+QcY3aLJyhYSyafS/4/cnne0YmWu+L4A6bzofoJGPjYhEGJHDu+3yJow==",
+  "dgSpecHash": "D7Fb2abZlyJcxj1c/LtwA9uVX3FXJIJl7CfKxleJ2wFvV+eMRfeo+tCIj/afinufr877lAbKnr6qEc9IHldt3Q==",
   "success": true,
-  "projectFilePath": "C:\\C\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj",
+  "projectFilePath": "C:\\Projetos\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -15,7 +15,7 @@ namespace AcessoDados
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Data Source=DESKTOP-DCTJSEI\\SQLEXPRESS02;Initial Catalog=ApiCatalogDb;Integrated Security=true", b => b.MigrationsAssembly("ApiUsuario"));
+            optionsBuilder.UseSqlServer("Data Source=DESKTOP-KDJJEAI\\SQLEXPRESS;Initial Catalog=ApiCatalogDb;Integrated Security=true", b => b.MigrationsAssembly("ApiUsuario"));
         }
 
         public DbSet<Usuario> Usuarios { get; set; }

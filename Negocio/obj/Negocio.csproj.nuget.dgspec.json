@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C\\ApiUsuario\\Negocio\\Negocio.csproj": {}
+    "C:\\Projetos\\ApiUsuario\\Negocio\\Negocio.csproj": {}
   },
   "projects": {
-    "C:\\C\\ApiUsuario\\AcessoDados\\AcessoDados.csproj": {
+    "C:\\Projetos\\ApiUsuario\\AcessoDados\\AcessoDados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C\\ApiUsuario\\AcessoDados\\AcessoDados.csproj",
+        "projectUniqueName": "C:\\Projetos\\ApiUsuario\\AcessoDados\\AcessoDados.csproj",
         "projectName": "AcessoDados",
-        "projectPath": "C:\\C\\ApiUsuario\\AcessoDados\\AcessoDados.csproj",
+        "projectPath": "C:\\Projetos\\ApiUsuario\\AcessoDados\\AcessoDados.csproj",
         "packagesPath": "C:\\Users\\caioo\\.nuget\\packages\\",
-        "outputPath": "C:\\C\\ApiUsuario\\AcessoDados\\obj\\",
+        "outputPath": "C:\\Projetos\\ApiUsuario\\AcessoDados\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caioo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\C\\ApiUsuario\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\C\\ApiUsuario\\Entidades\\Entidades.csproj"
+              "C:\\Projetos\\ApiUsuario\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Projetos\\ApiUsuario\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\C\\ApiUsuario\\Entidades\\Entidades.csproj": {
+    "C:\\Projetos\\ApiUsuario\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C\\ApiUsuario\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Projetos\\ApiUsuario\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\C\\ApiUsuario\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Projetos\\ApiUsuario\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\caioo\\.nuget\\packages\\",
-        "outputPath": "C:\\C\\ApiUsuario\\Entidades\\obj\\",
+        "outputPath": "C:\\Projetos\\ApiUsuario\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caioo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -136,14 +136,14 @@
         }
       }
     },
-    "C:\\C\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj": {
+    "C:\\Projetos\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj",
+        "projectUniqueName": "C:\\Projetos\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj",
         "projectName": "NegocioInterface",
-        "projectPath": "C:\\C\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj",
+        "projectPath": "C:\\Projetos\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj",
         "packagesPath": "C:\\Users\\caioo\\.nuget\\packages\\",
-        "outputPath": "C:\\C\\ApiUsuario\\NegocioInterface\\obj\\",
+        "outputPath": "C:\\Projetos\\ApiUsuario\\NegocioInterface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caioo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -160,8 +160,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\C\\ApiUsuario\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\C\\ApiUsuario\\Entidades\\Entidades.csproj"
+              "C:\\Projetos\\ApiUsuario\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Projetos\\ApiUsuario\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -194,14 +194,14 @@
         }
       }
     },
-    "C:\\C\\ApiUsuario\\Negocio\\Negocio.csproj": {
+    "C:\\Projetos\\ApiUsuario\\Negocio\\Negocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C\\ApiUsuario\\Negocio\\Negocio.csproj",
+        "projectUniqueName": "C:\\Projetos\\ApiUsuario\\Negocio\\Negocio.csproj",
         "projectName": "Negocio",
-        "projectPath": "C:\\C\\ApiUsuario\\Negocio\\Negocio.csproj",
+        "projectPath": "C:\\Projetos\\ApiUsuario\\Negocio\\Negocio.csproj",
         "packagesPath": "C:\\Users\\caioo\\.nuget\\packages\\",
-        "outputPath": "C:\\C\\ApiUsuario\\Negocio\\obj\\",
+        "outputPath": "C:\\Projetos\\ApiUsuario\\Negocio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caioo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -218,11 +218,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\C\\ApiUsuario\\AcessoDados\\AcessoDados.csproj": {
-                "projectPath": "C:\\C\\ApiUsuario\\AcessoDados\\AcessoDados.csproj"
+              "C:\\Projetos\\ApiUsuario\\AcessoDados\\AcessoDados.csproj": {
+                "projectPath": "C:\\Projetos\\ApiUsuario\\AcessoDados\\AcessoDados.csproj"
               },
-              "C:\\C\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj": {
-                "projectPath": "C:\\C\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj"
+              "C:\\Projetos\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj": {
+                "projectPath": "C:\\Projetos\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj"
               }
             }
           }

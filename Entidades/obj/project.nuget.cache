@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8FhlOWKaKx+4MuDAecJ6B+sB1idHkGAbtshB6nv5k2REN6Xzf1mwxwYR+97zpjsvWL9yrjuknOC9e+CbsrRYAQ==",
+  "dgSpecHash": "klS6iGAPa0aGF7aWeCdztz0PGz83K6IJfj9QfMMCW30g2xzpVYJ0JPGGObuACDL921SV8rv8+cq+DMluU4B+8Q==",
   "success": true,
-  "projectFilePath": "C:\\C\\ApiUsuario\\Entidades\\Entidades.csproj",
+  "projectFilePath": "C:\\Projetos\\ApiUsuario\\Entidades\\Entidades.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

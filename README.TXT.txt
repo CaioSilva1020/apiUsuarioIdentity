@@ -27,6 +27,7 @@ options.UseSqlServer(mySqlConnection));
 migrations
 
 instalar o dotnet ef no projeto 
+dotnet tool install --global dotnet-ef
 usar a migation depois de criar a entidade com os dados que entrarão na tabela
 
 

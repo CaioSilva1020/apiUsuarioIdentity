@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IzcK/QnoAmBt6oGjqXSspG8YyxSAO1kNTbgopq03IppKB68V+ur5p0cNenjHIBQGGrAE3LZWQVGrl12lJMU3Iw==",
+  "dgSpecHash": "+g4AIM8Y1VdG+tKr2eLaeHKakTh1cxWELFVfQWCNdk03vm25oahYYfJaC/XCz2rU3A8FuML5DhQEnq9RktCDMw==",
   "success": true,
-  "projectFilePath": "C:\\C\\ApiUsuario\\AcessoDados\\AcessoDados.csproj",
+  "projectFilePath": "C:\\Projetos\\ApiUsuario\\AcessoDados\\AcessoDados.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\caioo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\caioo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.5\\microsoft.aspnetcore.cryptography.internal.6.0.5.nupkg.sha512",

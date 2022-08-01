@@ -34,3 +34,15 @@ C:\C\ApiUsuario\Entidades\obj\Debug\net6.0\Entidades.dll
 C:\C\ApiUsuario\Entidades\obj\Debug\net6.0\refint\Entidades.dll
 C:\C\ApiUsuario\Entidades\obj\Debug\net6.0\Entidades.pdb
 C:\C\ApiUsuario\Entidades\obj\Debug\net6.0\ref\Entidades.dll
+C:\Projetos\ApiUsuario\Entidades\bin\Debug\net6.0\Entidades.deps.json
+C:\Projetos\ApiUsuario\Entidades\bin\Debug\net6.0\Entidades.dll
+C:\Projetos\ApiUsuario\Entidades\bin\Debug\net6.0\Entidades.pdb
+C:\Projetos\ApiUsuario\Entidades\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+C:\Projetos\ApiUsuario\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ApiUsuario\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\Projetos\ApiUsuario\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\Projetos\ApiUsuario\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Projetos\ApiUsuario\Entidades\obj\Debug\net6.0\Entidades.dll
+C:\Projetos\ApiUsuario\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+C:\Projetos\ApiUsuario\Entidades\obj\Debug\net6.0\Entidades.pdb
+C:\Projetos\ApiUsuario\Entidades\obj\Debug\net6.0\ref\Entidades.dll

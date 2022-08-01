@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ep/MYDRtrOYfLjbtluKI/lr7PbLdLw0fw1DY+OZmMqpyqajpQAPV1wn86/artstCtWTXbYVl+6evmCwj9CZ9vQ==",
+  "dgSpecHash": "yMFNylalkAKIO7idI4rb0LheI5GW4Ld3E7W4dEwny6TaDRTqBPGd2AETWn1g2PTbecloTenWkT5Yiusv0S4v1g==",
   "success": true,
-  "projectFilePath": "C:\\C\\ApiUsuario\\DTO\\DTO.csproj",
+  "projectFilePath": "C:\\Projetos\\ApiUsuario\\DTO\\DTO.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

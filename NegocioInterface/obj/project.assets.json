@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj",
+      "projectUniqueName": "C:\\Projetos\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj",
       "projectName": "NegocioInterface",
-      "projectPath": "C:\\C\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj",
+      "projectPath": "C:\\Projetos\\ApiUsuario\\NegocioInterface\\NegocioInterface.csproj",
       "packagesPath": "C:\\Users\\caioo\\.nuget\\packages\\",
-      "outputPath": "C:\\C\\ApiUsuario\\NegocioInterface\\obj\\",
+      "outputPath": "C:\\Projetos\\ApiUsuario\\NegocioInterface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\caioo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\C\\ApiUsuario\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\C\\ApiUsuario\\Entidades\\Entidades.csproj"
+            "C:\\Projetos\\ApiUsuario\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Projetos\\ApiUsuario\\Entidades\\Entidades.csproj"
             }
           }
         }

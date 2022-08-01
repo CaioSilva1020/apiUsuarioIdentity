@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LJ01S84CeQrcqKE6UhaeN2NN81E1k19zUjBbeqE+QBxm9knGmEa7BSGmTMSVabD3EBNR3GzB8KIowxTVFfuc3g==",
+  "dgSpecHash": "pyw1Tl1T0E+pu5k2k4r3mbhG0NMs1OFyNX4GLtLegVtA7qg81BciYAAQzC4hYWBoCXel7BXEYqjgSc/MLYknow==",
   "success": true,
-  "projectFilePath": "C:\\C\\ApiUsuario\\Negocio\\Negocio.csproj",
+  "projectFilePath": "C:\\Projetos\\ApiUsuario\\Negocio\\Negocio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\caioo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.5\\microsoft.aspnetcore.cryptography.internal.6.0.5.nupkg.sha512",
     "C:\\Users\\caioo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.5\\microsoft.aspnetcore.cryptography.keyderivation.6.0.5.nupkg.sha512",

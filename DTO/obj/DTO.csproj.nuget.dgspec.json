@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C\\ApiUsuario\\DTO\\DTO.csproj": {}
+    "C:\\Projetos\\ApiUsuario\\DTO\\DTO.csproj": {}
   },
   "projects": {
-    "C:\\C\\ApiUsuario\\DTO\\DTO.csproj": {
+    "C:\\Projetos\\ApiUsuario\\DTO\\DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C\\ApiUsuario\\DTO\\DTO.csproj",
+        "projectUniqueName": "C:\\Projetos\\ApiUsuario\\DTO\\DTO.csproj",
         "projectName": "DTO",
-        "projectPath": "C:\\C\\ApiUsuario\\DTO\\DTO.csproj",
+        "projectPath": "C:\\Projetos\\ApiUsuario\\DTO\\DTO.csproj",
         "packagesPath": "C:\\Users\\caioo\\.nuget\\packages\\",
-        "outputPath": "C:\\C\\ApiUsuario\\DTO\\obj\\",
+        "outputPath": "C:\\Projetos\\ApiUsuario\\DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caioo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C\\ApiUsuario\\Entidades\\Entidades.csproj": {}
+    "C:\\Projetos\\ApiUsuario\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\C\\ApiUsuario\\Entidades\\Entidades.csproj": {
+    "C:\\Projetos\\ApiUsuario\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C\\ApiUsuario\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Projetos\\ApiUsuario\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\C\\ApiUsuario\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Projetos\\ApiUsuario\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\caioo\\.nuget\\packages\\",
-        "outputPath": "C:\\C\\ApiUsuario\\Entidades\\obj\\",
+        "outputPath": "C:\\Projetos\\ApiUsuario\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caioo\\AppData\\Roaming\\NuGet\\NuGet.Config",
